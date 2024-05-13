@@ -1,4 +1,4 @@
-# SecureAuth-User-Login-and-Registration-Backend-with-Email-Verification
+# Secure Auth - User login verification
 ## Getting started 🏃‍♂️ 
 
 1. Clone this repository:
